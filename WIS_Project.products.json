@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "69dfa6afcf73d76c0a11de65"
+  },
+  "name": "Ανεμιστήρας Τοίχου 65εκ ",
+  "image": "anemistiras_toixou_65_cm.png",
+  "description": "Διάμετρος 65 εκ, με 4 ταχύτητες, με ισχύς 210W με Τηλεχειριστήριο Βιομηχανικός",
+  "likes": 43,
+  "price": 110
+},
+{
+  "_id": {
+    "$oid": "69dfa6afcf73d76c0a11de66"
+  },
+  "name": "Ανεμιστήρας Ορθοστάτης 65 εκ",
+  "image": "anemistiras_orthostatis.png",
+  "description": "Ρυθμιζόμενο ύψος 1,70m, με 3 ταχύτητες, με 2 φτερά και με ισχύς 210W",
+  "likes": 51,
+  "price": 80
+},
+{
+  "_id": {
+    "$oid": "69dfa6afcf73d76c0a11de67"
+  },
+  "name": "Ανεμιστήρας Τοίχου 40 εκ",
+  "image": "anemistiras.jpg",
+  "description": "Διάμετρος 40εκ με 100% χάλκινη περιέλιξη μοτέρ, με τηλεχειριστήριο, Ρυθμιζόμενη κάθετη γωνία αέρα 30⁰ και με ισχύς 55W",
+  "likes": 22,
+  "price": 45.9
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de69"
+  },
+  "name": "Air Cooler HAC",
+  "image": "Air_Cooler_HAC.jpg",
+  "description": "Ανεμιστήρας με πίνακα ελέγχου με πλήκτρα αφής, με διαστάσεις (MxΠxY) : 28 x 29 x 70εκ και με ισχύς 80W.",
+  "likes": 22,
+  "price": 39.9
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de6a"
+  },
+  "name": "Ανεμιστήρας Τοίχου HWF",
+  "image": "anemistiras_toixou_HWF.jpg",
+  "description": "Ανεμιστήρας 18’’ (45εκ.) με 3 ταχύτητες και χρονοδιακόπτη 7,5 ωρών.",
+  "likes": 12,
+  "price": 19.9
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de6b"
+  },
+  "name": "Ανεμιστήρας Δαπέδου HFF",
+  "image": "anemistiras_dapedou_HFF.jpg",
+  "description": "Ανεμιστήρας 110W, διαμέτρου 45εκ. (18’’), με ανακλινόμενη κεφαλή.",
+  "likes": 23,
+  "price": 21
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de6c"
+  },
+  "name": "Ανεμιστήρας Ορθοστάτης HSF",
+  "image": "anemistiras_orthostatis_HSF.jpg",
+  "description": "Ανεμιστήρας 60W, διαμέτρου 45εκ. (18’’), με 5 πτερύγια και ρυθμιζόμενο ύψος έως 1,45μ.",
+  "likes": 33,
+  "price": 30.99
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de6d"
+  },
+  "name": "Ανεμιστήρας Ορθοστάτης HSF-8",
+  "image": "anemistiras_orthostatis_HSF-8.png",
+  "description": "Ανεμιστήρας 60W, διαμέτρου 40εκ. (16’’), με ρυθμιζόμενο ύψος έως 1,20μ.",
+  "likes": 9,
+  "price": 12
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de6e"
+  },
+  "name": "Ανεμιστήρας Επιτραπέζιος HTF-8",
+  "image": "anemistiras_orthostatis_ΗSF-805.jpg",
+  "description": "Ανεμιστήρας 50W, διαμέτρου 40εκ. (16’’), με 3 ταχύτητες λειτουργίας.",
+  "likes": 56,
+  "price": 45.9
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de6f"
+  },
+  "name": "Ανεμιστήρας Επιτραπέζιος HTF-805",
+  "image": "anemistiras_epitrapezios_HTF-80535",
+  "description": "Ανεμιστήρας 50W, διαμέτρου 40εκ. (16’’), με περιστροφή 90°.",
+  "likes": 89,
+  "price": 20.5
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de70"
+  },
+  "name": "Ανεμιστήρας Mini ΗMF-8",
+  "image": "anemistiras_Mini_ΗMF-8.jpg",
+  "description": "Ανεμιστήρας USB 18 εκ. (7’’) με κομψό σχεδιασμό.",
+  "likes": 32,
+  "price": 12
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de71"
+  },
+  "name": "Ανεμιστήρας Mini ΗMF-805",
+  "image": "anemistiras_Mini_ΗMF-805.jpg",
+  "description": "Ανεμιστήρας USB 15 εκ. (6’’) με αθόρυβη λειτουργία.",
+  "likes": 65,
+  "price": 12.3
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de72"
+  },
+  "name": "Ανεμιστήρας Box Fan ΗBF",
+  "image": "anemistiras_Box_Fan_ΗBF.jpg",
+  "description": "Ανεμιστήρας 40W, διαμέτρου 30εκ. (12’’), με 3 ταχύτητες και 5 πτερύγια για +30% κατανομή αέρα.",
+  "likes": 95,
+  "price": 20.5
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de73"
+  },
+  "name": "Ανεμιστήρας Ορθοστάτης HSF-8058",
+  "image": "anemistiras_orthostatis_HSF-8058.jpg",
+  "description": "Ανεμιστήρας 60W, διαμέτρου 45εκ. (18’’), με 3 ταχύτητες και περιστροφική κίνηση.",
+  "likes": 32,
+  "price": 44
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de74"
+  },
+  "name": "Ανεμιστήρας Ορθοστάτης ΗSF-8054",
+  "image": "anemistiras_orthostatis_ΗSF-8054.jpg",
+  "description": "Ανεμιστήρας 50W, διαμέτρου 40εκ. (16’’), με δικτυωτό πλέγμα και προστασία από υπερθέρμανση.",
+  "likes": 65,
+  "price": 45.9
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de75"
+  },
+  "name": "Ανεμιστήρας Ορθοστάτης ΗSF-80542",
+  "image": "anemistiras_orthostatis_ΗSF-80542.jpg",
+  "description": "Ανεμιστήρας 50W, διαμέτρου 40εκ. (16’’), με ιδιαίτερα ανθεκτικό μοτέρ μεγάλης διάρκειας.",
+  "likes": 44,
+  "price": 20.5
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de76"
+  },
+  "name": "Ανεμιστήρας Επιτραπέζιος HTF-80544 Hobby",
+  "image": "anemistiras_epitrapezios_HTF-80544.jpg",
+  "description": "Ανεμιστήρας 50W, διαμέτρου 40εκ. (16’’), με 4 πτερύγια, 3 ταχύτητες και περιστροφική κίνηση.",
+  "likes": 22,
+  "price": 12
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de77"
+  },
+  "name": "Ανεμιστήρας Επιτραπέζιος HTF-80535",
+  "image": "anemistiras_epitrapezios_HTF-80535.jpg",
+  "description": "Ανεμιστήρας 40W, διαμέτρου 30εκ. (12’’), με περιστροφική κίνηση.",
+  "likes": 37,
+  "price": 7.9
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de78"
+  },
+  "name": "Ανεμιστήρας Ορθοστάτης WLSF",
+  "image": "anemistiras_orthostatis_WLSF.jpg",
+  "description": "Ανεμιστήρας 50W, διαμέτρου 40εκ. (16’’), με 3 ταχύτητες και 3 λειτουργίες (Κανονική/Φυσική/Ύπνου).",
+  "likes": 49,
+  "price": 22.5
+},
+{
+  "_id": {
+    "$oid": "69dfb0f8cf73d76c0a11de79"
+  },
+  "name": "Ανεμιστήρας Ορθοστάτης HSF-80533",
+  "image": "anemistiras_orthostatis_HSF-80533.jpg",
+  "description": "Ανεμιστήρας 50W, διαμέτρου 40εκ. (16’’), με 3 ταχύτητες και στρογγυλή βάση για μέγιστη σταθερότητα.",
+  "likes": 55,
+  "price": 45.9
+}]
