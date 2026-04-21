@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OnlyFans - Αρχική</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="20" cy="20" r="18" stroke="#00aff0" stroke-width="2"/>
+                        <path d="M20 8C20 8 28 12 28 20C28 28 20 32 20 32C20 32 12 28 12 20C12 12 20 8 20 8Z" fill="#00aff0"/>
+                        <circle cx="20" cy="20" r="3" fill="white"/>
+                    </svg>
+                    <span>OnlyFans</span>
+                </div>
+                <nav class="nav">
+                    <a href="homepage.html" class="nav-link active">Αρχική</a>
+                    <a href="items.html" class="nav-link">Προϊόντα</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1 class="hero-title">OnlyFans</h1>
+            <p class="hero-subtitle">Η λύση για κάθε χώρο</p>
+        </div>
+    </section>
+
+    <!-- Slideshow Section -->
+    <section class="slideshow-section">
+        <div class="container">
+            <div class="slideshow-container">
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/vt3kkp1n_anemistiras_orthostatis_%CE%97SF-80542.jpg" alt="Ανεμιστήρας 1">
+                </div>
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/jl1ermo7_anemistiras_orthostatis.png" alt="Ανεμιστήρας Industrial">
+                </div>
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/zt8tex2z_anemistiras_orthostatis_WLSF.jpg" alt="Ανεμιστήρας WLSF">
+                </div>
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/wbkpdyqh_anemistiras_orthostatis_HSF.jpg" alt="Ανεμιστήρας Κόκκινος">
+                </div>
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/u9z44a8q_anemistiras_epitrapezios_HTF-80544.jpg" alt="Επιτραπέζιος Λευκός">
+                </div>
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/aobm2fws_anemistiras_epitrapezios_HTF-80535.jpg" alt="Επιτραπέζιος Μαύρος">
+                </div>
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/2rxkkkh8_anemistiras_toixou_HWF.jpg" alt="Ανεμιστήρας Τοίχου">
+                </div>
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/19nn57xy_anemistiras_dapedou_HFF.jpg" alt="Ανεμιστήρας Δαπέδου">
+                </div>
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/swm22ipc_anemistiras_orthostatis_HSF-80587.jpg" alt="Ανεμιστήρας HSF-80587">
+                </div>
+                <div class="slide fade">
+                    <img src="https://customer-assets.emergentagent.com/job_fan-store-preview/artifacts/st897ntm_anemistiras_toixou_65_cm.png" alt="Ανεμιστήρας Τοίχου 65cm">
+                </div>
+                
+                <!-- Navigation dots -->
+                <div class="dots-container">
+                    <span class="dot" onclick="currentSlide(1)"></span>
+                    <span class="dot" onclick="currentSlide(2)"></span>
+                    <span class="dot" onclick="currentSlide(3)"></span>
+                    <span class="dot" onclick="currentSlide(4)"></span>
+                    <span class="dot" onclick="currentSlide(5)"></span>
+                    <span class="dot" onclick="currentSlide(6)"></span>
+                    <span class="dot" onclick="currentSlide(7)"></span>
+                    <span class="dot" onclick="currentSlide(8)"></span>
+                    <span class="dot" onclick="currentSlide(9)"></span>
+                    <span class="dot" onclick="currentSlide(10)"></span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about-section">
+        <div class="container">
+            <h2 class="section-title">Η Ομάδα Μας</h2>
+            <p class="section-description">Μια ομάδα αφοσιωμένων επαγγελματιών που εργάζονται για να σας προσφέρουν τις καλύτερες λύσεις ψύξης</p>
+            
+            <div class="team-grid">
+                <div class="team-card">
+                    <div class="team-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M21 21H3V20C3 17.2386 5.23858 15 8 15H16C18.7614 15 21 17.2386 21 20V21Z" stroke="#00aff0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <circle cx="12" cy="8" r="4" stroke="#00aff0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <h3 class="team-name">Αθηνά Παπαχαραλάμπους</h3>
+                    <p class="team-role">UI/UX Design</p>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M21 21H3V20C3 17.2386 5.23858 15 8 15H16C18.7614 15 21 17.2386 21 20V21Z" stroke="#00aff0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <circle cx="12" cy="8" r="4" stroke="#00aff0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <h3 class="team-name">Μαρία Κουρμπή</h3>
+                    <p class="team-role">API</p>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M21 21H3V20C3 17.2386 5.23858 15 8 15H16C18.7614 15 21 17.2386 21 20V21Z" stroke="#00aff0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <circle cx="12" cy="8" r="4" stroke="#00aff0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <h3 class="team-name">Αχιλλεύς Πριμεράκης</h3>
+                    <p class="team-role">Data Model</p>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M21 21H3V20C3 17.2386 5.23858 15 8 15H16C18.7614 15 21 17.2386 21 20V21Z" stroke="#00aff0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <circle cx="12" cy="8" r="4" stroke="#00aff0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <h3 class="team-name">Ρουμπέν Καράμωβ</h3>
+                    <p class="team-role">Integration</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features-section">
+        <div class="container">
+            <h2 class="section-title">Γιατί να μας επιλέξετε</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Ποιότητα</h3>
+                    <p>Προϊόντα υψηλής ποιότητας με εγγύηση</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🌀</div>
+                    <h3>Ποικιλία</h3>
+                    <p>Μεγάλη γκάμα ανεμιστήρων για κάθε ανάγκη</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💚</div>
+                    <h3>Οικονομία</h3>
+                    <p>Ενεργειακά αποδοτικές λύσεις</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-team">
+                    <p class="footer-title">Ομάδα Ανάπτυξης</p>
+                    <p class="footer-names">Αθηνά Παπαχαραλάμπους • Μαρία Κουρμπή • Αχιλλεύς Πριμεράκης • Ρουμπέν Καράμωβ</p>
+                </div>
+                <div class="footer-copyright">
+                    <p>&copy; 2024 OnlyFans. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+      
+</body>
+</html>
