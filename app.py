@@ -34,7 +34,7 @@ def add_like():
     
 
 
-@app.route('/popular', methos = ['GET'])
+@app.route('/popular', methods = ['GET'])
 def popular_fives():
     
     top_products = mongo.db.products.find().sort('likes', -1).limit(5)                              # sort me basi ta like kai pairbw top 5
