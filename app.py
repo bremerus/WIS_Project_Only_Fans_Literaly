@@ -4,7 +4,7 @@ from flask_cors import CORS
 from bson.objectid import ObjectId                                                                  #gia na epistrepsei pragmata poy ns katalavainei to db
 import numpy as np
 
-app = Flask(__name__)                                                                               #efarmogi flask 
+app = Flask(__name__, template_folder='.', static_folder='.', static_url_path='/')                                                                       #efarmogi flask 
 CORS(app)                                                                                           #adeia epikoinwnias me db
 
 app.config["MONGO_URI"] = "mongodb://localhost:27017/WIS_Project"                                   #syndesi localhost me db
